@@ -1,0 +1,338 @@
+ciro_bermudez@polarbear:~/Desktop/proyecto_de_optimizacion/evolucion_diferencial/ED
+$ time python3 ED_v1.py 
+Output file: gl_Pop0.txt
+Input parameters:
+a = 0.718387, b = 0.534258, c = 0.841849, d = 0.651970
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.031978 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop1.txt
+Input parameters:
+a = 0.469843, b = 0.918783, c = 0.093144, d = 0.096097
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.007773 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop1.txt
+Input parameters:
+a = 0.904142, b = 0.289146, c = 0.565258, d = 0.752619
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.929320 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop1.txt
+Input parameters:
+a = 0.709757, b = 0.772532, c = 0.821995, d = 0.310087
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.958987 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.801181, b = 0.279778, c = 0.872251, d = 0.263053
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.083318 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.907195, b = 0.113932, c = 0.315606, d = 0.932627
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.943124 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.569097, b = 0.486165, c = 0.828126, d = 0.172299
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.002454 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.143940, b = 0.274996, c = 0.939980, d = 0.069715
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.869198 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.431298, b = 0.326598, c = 0.640393, d = 0.205269
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.070723 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.662307, b = 0.082736, c = 0.888367, d = 0.521680
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.016473 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.337076, b = 0.745687, c = 0.592843, d = 0.222495
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.840708 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.535424, b = 0.404904, c = 0.166262, d = 0.425420
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.887738 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.502899, b = 0.895229, c = 0.808833, d = 0.635347
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.047187 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.010720, b = 0.212207, c = 0.526015, d = 0.793869
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.021660 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.604787, b = 0.353747, c = 0.529302, d = 0.794222
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.098631 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop2.txt
+Input parameters:
+a = 0.703507, b = 0.874579, c = 0.647325, d = 0.190196
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.846382 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.482556, b = 0.231779, c = 0.212101, d = 0.762692
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.068541 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.928862, b = 0.213912, c = 0.875507, d = 0.790949
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.005335 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.991587, b = 0.280225, c = 0.880215, d = 0.031807
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.039759 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.064314, b = 0.735624, c = 0.677963, d = 0.951072
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.047612 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.219745, b = 0.906568, c = 0.698050, d = 0.496234
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.889835 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.192376, b = 0.822058, c = 0.344184, d = 0.185257
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.970363 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.460812, b = 0.893165, c = 0.893013, d = 0.762505
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.904437 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.679774, b = 0.051476, c = 0.406291, d = 0.495071
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.147488 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.844530, b = 0.615878, c = 0.543344, d = 0.080911
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.878894 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop3.txt
+Input parameters:
+a = 0.708369, b = 0.642178, c = 0.832260, d = 0.628709
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.009402 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop4.txt
+Input parameters:
+a = 0.210683, b = 0.782565, c = 0.205461, d = 0.860244
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.971629 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.944774, b = 0.489958, c = 0.433701, d = 0.173839
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.077250 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.952134, b = 0.032408, c = 0.182286, d = 0.803154
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.098788 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.319782, b = 0.154349, c = 0.101599, d = 0.627257
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.015629 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.451281, b = 0.293823, c = 0.138528, d = 0.480549
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.911524 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.163220, b = 0.876781, c = 0.954206, d = 0.970580
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.062490 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.385595, b = 0.135298, c = 0.920551, d = 0.385541
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.998158 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.187120, b = 0.731798, c = 0.685054, d = 0.714489
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.000880 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.962963, b = 0.379912, c = 0.042678, d = 0.355828
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.087996 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.470577, b = 0.895306, c = 0.692479, d = 0.213699
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.822569 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.235430, b = 0.091552, c = 0.259820, d = 0.073602
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.038713 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.381387, b = 0.112600, c = 0.863805, d = 0.883237
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.025816 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop5.txt
+Input parameters:
+a = 0.775668, b = 0.797727, c = 0.962169, d = 0.374038
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.010881 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop6.txt
+Input parameters:
+a = 0.057546, b = 0.846125, c = 0.459143, d = 0.808673
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.034038 seconds
+	MAL OSCILADOR, ESTABLE .......................
+Output file: gl_Pop6.txt
+Input parameters:
+a = 0.250729, b = 0.983965, c = 0.192245, d = 0.047156
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.974754 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop7.txt
+Input parameters:
+a = 0.683306, b = 0.440263, c = 0.296954, d = 0.846858
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.962460 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop7.txt
+Input parameters:
+a = 0.922444, b = 0.149529, c = 0.458395, d = 0.906313
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.141777 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop7.txt
+Input parameters:
+a = 0.451799, b = 0.592224, c = 0.742463, d = 0.870170
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.940855 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop8.txt
+Input parameters:
+a = 0.934988, b = 0.795302, c = 0.039978, d = 0.950855
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 5.111239 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop8.txt
+Input parameters:
+a = 0.882289, b = 0.857771, c = 0.997310, d = 0.232395
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.979850 seconds
+	BUEN OSCILADOR ...............................
+Output file: gl_Pop9.txt
+Input parameters:
+a = 0.028839, b = 0.147422, c = 0.115447, d = 0.026328
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.840871 seconds
+	MAL OSCILADOR, INFINITO ......................
+Output file: gl_Pop9.txt
+Input parameters:
+a = 0.426331, b = 0.506504, c = 0.667457, d = 0.516425
+tn: time, h: int_step, k: num_iter, lm: win_time, m: num_iter_win
+tn = 500.000000, h = 0.010000, k = 50000.000000, lm = 400.000000, m = 40000.000000
+Elapsed: 4.934358 seconds
+	BUEN OSCILADOR ...............................

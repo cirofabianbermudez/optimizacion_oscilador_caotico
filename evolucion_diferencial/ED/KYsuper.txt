@@ -1,0 +1,6 @@
+20000 3.428568e-05 1.366360e-04 -1.984839e-04 
+#Average relative forecast errors:= 1.472422e-07 1.742268e-07 1.207102e-04 
+#Average absolute forecast errors:= 4.127748e-07 4.156197e-07 2.471203e-04 
+#Average Neighborhood Size= 2.722596e-01
+#Average num. of neighbors= 1.000000e+02
+#estimated KY-Dimension= 2.861136

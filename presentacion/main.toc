@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Objetivos}{5}{0}{2}
+\beamer@sectionintoc {3}{Fundamentos te\IeC {\'o}ricos}{6}{0}{3}
+\beamer@sectionintoc {4}{Implementaci\IeC {\'o}n de integradores fraccionarios}{22}{0}{4}
+\beamer@sectionintoc {5}{Oscilador ca\IeC {\'o}tico}{47}{0}{5}
+\beamer@sectionintoc {6}{Conclusi\IeC {\'o}n}{58}{0}{6}
+\beamer@sectionintoc {7}{Bibliograf\IeC {\'\i }a}{59}{0}{7}

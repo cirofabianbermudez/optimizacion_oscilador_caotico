@@ -1,0 +1,35 @@
+\BOOKMARK [1][-]{section.1}{Alojamiento del proyecto}{}% 1
+\BOOKMARK [1][-]{section.2}{\277Qu\351 tengo que hacer?}{}% 2
+\BOOKMARK [1][-]{section.3}{Definici\363n de Gr\374nwald-Letnikov}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Definici\363n de derivada de Gr\374nwald-Letnikov}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Definici\363n de integral de Gr\374nwald-Letnikov}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{M\351todo num\351rico para la definici\363n de GL}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Caos}{}% 7
+\BOOKMARK [1][-]{section.5}{Exponente de Lyapunov}{}% 8
+\BOOKMARK [1][-]{section.6}{Oscilador ca\363tico de m\372ltiples enrollamientos basado en series de funciones saturadas}{}% 9
+\BOOKMARK [1][-]{section.7}{Comprobaci\363n de algoritmo con FDE12}{}% 10
+\BOOKMARK [1][-]{section.8}{TISEAN 3.0.1}{}% 11
+\BOOKMARK [2][-]{subsection.8.1}{\277Qu\351 es?}{section.8}% 12
+\BOOKMARK [2][-]{subsection.8.2}{Instalaci\363n}{section.8}% 13
+\BOOKMARK [2][-]{subsection.8.3}{Utilizaci\363n de lyap\137spec}{section.8}% 14
+\BOOKMARK [1][-]{section.9}{Optimizaci\363n}{}% 15
+\BOOKMARK [1][-]{section.10}{Evoluci\363n Diferencial \(ED\)}{}% 16
+\BOOKMARK [2][-]{subsection.10.1}{Introducci\363n}{section.10}% 17
+\BOOKMARK [2][-]{subsection.10.2}{Mutaci\363n}{section.10}% 18
+\BOOKMARK [2][-]{subsection.10.3}{Recombinaci\363n}{section.10}% 19
+\BOOKMARK [2][-]{subsection.10.4}{Comprobaci\363n de l\355mites}{section.10}% 20
+\BOOKMARK [2][-]{subsection.10.5}{Selecci\363n}{section.10}% 21
+\BOOKMARK [1][-]{section.11}{Problemas de prueba para optimizaci\363n}{}% 22
+\BOOKMARK [2][-]{subsection.11.1}{Funci\363n esfera}{section.11}% 23
+\BOOKMARK [2][-]{subsection.11.2}{Funci\363n Rosenbrock}{section.11}% 24
+\BOOKMARK [1][-]{section.12}{Prueba de heuristica ED}{}% 25
+\BOOKMARK [1][-]{section.13}{Optimizaci\363n de los par\341metros del oscilador ca\363tico SNLF}{}% 26
+\BOOKMARK [2][-]{subsection.13.1}{Funci\363n objetivo para oscilador SNLF}{section.13}% 27
+\BOOKMARK [2][-]{subsection.13.2}{Restricciones}{section.13}% 28
+\BOOKMARK [2][-]{subsection.13.3}{Restructuraci\363n de pseudoc\363digo}{section.13}% 29
+\BOOKMARK [2][-]{subsection.13.4}{Utilizaci\363n de la heur\355stica}{section.13}% 30
+\BOOKMARK [3][-]{subsubsection.13.4.1}{Resultados de prueba 1}{subsection.13.4}% 31
+\BOOKMARK [3][-]{subsubsection.13.4.2}{Resultados de prueba 2}{subsection.13.4}% 32
+\BOOKMARK [3][-]{subsubsection.13.4.3}{Resultados de prueba 3}{subsection.13.4}% 33
+\BOOKMARK [3][-]{subsubsection.13.4.4}{Resultados de prueba 4}{subsection.13.4}% 34
+\BOOKMARK [1][-]{section.14}{C\363digos}{}% 35

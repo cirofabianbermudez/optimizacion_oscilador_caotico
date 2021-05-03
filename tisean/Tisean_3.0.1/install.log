@@ -1,0 +1,176 @@
+/bin/sh: 4: c1: not found
+/bin/sh: 4: c2naive: not found
+/bin/sh: 4: xc2: not found
+/bin/sh: 4: c2d: not found
+/bin/sh: 4: c2g: not found
+/bin/sh: 4: c2t: not found
+/bin/sh: 4: pc: not found
+/bin/sh: 4: predict: not found
+/bin/sh: 4: stp: not found
+/bin/sh: 4: lazy: not found
+/bin/sh: 4: project: not found
+/bin/sh: 4: addnoise: not found
+Version: ImageMagick 6.9.10-23 Q16 x86_64 20190101 https://imagemagick.org
+Copyright: © 1999-2019 ImageMagick Studio LLC
+License: https://imagemagick.org/script/license.php
+Features: Cipher DPC Modules OpenMP 
+Delegates (built-in): bzlib djvu fftw fontconfig freetype heic jbig jng jp2 jpeg lcms lqr ltdl lzma openexr pangocairo png tiff webp wmf x xml zlib
+Usage: compare-im6.q16 [options ...] image reconstruct difference
+
+Image Settings:
+  -alpha option        on, activate, off, deactivate, set, opaque, copy
+                       transparent, extract, background, or shape
+  -authenticate password
+                       decipher image with this password
+  -background color    background color
+  -channel type        apply option to select image channels
+  -colorspace type     alternate image colorspace
+  -compose operator    set image composite operator
+  -compress type       type of pixel compression when writing the image
+  -decipher filename   convert cipher pixels to plain pixels
+  -define format:option
+                       define one or more image format options
+  -density geometry    horizontal and vertical density of the image
+  -depth value         image depth
+  -dissimilarity-threshold value
+                       maximum distortion for (sub)image match
+  -encipher filename   convert plain pixels to cipher pixels
+  -extract geometry    extract area from image
+  -format "string"     output formatted image characteristics
+  -fuzz distance       colors within this distance are considered equal
+  -gravity type        horizontal and vertical text placement
+  -highlight-color color
+                       empasize pixel differences with this color
+  -identify            identify the format and characteristics of the image
+  -interlace type      type of image interlacing scheme
+  -limit type value    pixel cache resource limit
+  -lowlight-color color
+                       de-emphasize pixel differences with this color
+  -mask filename       associate a mask with the image
+  -metric type         measure differences between images with this metric
+  -monitor             monitor progress
+  -passphrase filename get the passphrase from this file
+  -profile filename    add, delete, or apply an image profile
+  -quality value       JPEG/MIFF/PNG compression level
+  -quiet               suppress all warning messages
+  -quantize colorspace reduce colors in this colorspace
+  -regard-warnings     pay attention to warning messages
+  -repage geometry     size and location of an image canvas
+  -respect-parentheses settings remain in effect until parenthesis boundary
+  -sampling-factor geometry
+                       horizontal and vertical sampling factor
+  -seed value          seed a new sequence of pseudo-random numbers
+  -set attribute value set an image attribute
+  -quality value       JPEG/MIFF/PNG compression level
+  -similarity-threshold value
+                       minimum distortion for (sub)image match
+  -size geometry       width and height of image
+  -subimage-search     search for subimage
+  -synchronize         synchronize image to storage device
+  -taint               declare the image as modified
+  -transparent-color color
+                       transparent color
+  -type type           image type
+  -verbose             print detailed information about the image
+  -version             print version information
+  -virtual-pixel method
+                       virtual pixel access method
+
+Image Operators:
+  -brightness-contrast geometry
+                       improve brightness / contrast of the image
+  -distort method args
+                       distort images according to given method and args
+  -level value         adjust the level of image contrast
+  -resize geometry     resize the image
+  -rotate degrees      apply Paeth rotation to the image
+  -sigmoidal-contrast geometry
+                       increase the contrast without saturating highlights or
+  -trim                trim image edges
+
+Image Sequence Operators:
+  -crop geometry       cut out a rectangular region of the image
+  -separate            separate an image channel into a grayscale image
+  -write filename      write images to this file
+
+Image Stack Operators:
+  -delete indexes      delete the image from the image sequence
+
+Miscellaneous Options:
+  -debug events        display copious debugging information
+  -help                print program options
+  -list type           print a list of supported option arguments
+  -log format          format of debugging information
+
+By default, the image format of `file' is determined by its magic
+number.  To specify a particular image format, precede the filename
+with an image format name and a colon (i.e. ps:image) or specify the
+image type as the filename suffix (i.e. image.ps).  Specify 'file' as
+'-' for standard input or output.
+/bin/sh: 4: upo: not found
+/bin/sh: 4: upoembed: not found
+/bin/sh: 4: cluster: not found
+/bin/sh: 4: choose: not found
+/bin/sh: 4: rms: not found
+/bin/sh: 4: notch: not found
+/bin/sh: 4: autocor: not found
+/bin/sh: 4: spectrum: not found
+/bin/sh: 4: wiener1: not found
+/bin/sh: 4: wiener2: not found
+/bin/sh: 4: surrogates: not found
+/bin/sh: 4: endtoend: not found
+/bin/sh: 4: timerev: not found
+/bin/sh: 4: events: not found
+/bin/sh: 4: intervals: not found
+/bin/sh: 4: spikespec: not found
+/bin/sh: 4: spikeauto: not found
+/bin/sh: 4: henon: not found
+/bin/sh: 4: ikeda: not found
+/bin/sh: 4: lorenz: not found
+/bin/sh: 4: ar-run: not found
+/bin/sh: 4: xrecur: not found
+/bin/sh: 1: randomize_auto_exp_random: not found
+/bin/sh: 1: randomize_autop_exp_random: not found
+/bin/sh: 1: randomize_spikeauto_exp_random: not found
+/bin/sh: 1: randomize_spikespec_exp_event: not found
+/bin/sh: 1: randomize_uneven_exp_random: not found
+/bin/sh: 4: poincare: not found
+/bin/sh: 4: extrema: not found
+/bin/sh: 4: rescale: not found
+/bin/sh: 4: recurr: not found
+/bin/sh: 4: corr: not found
+/bin/sh: 4: mutual: not found
+/bin/sh: 4: false_nearest: not found
+/bin/sh: 4: lyap_r: not found
+/bin/sh: 4: lyap_k: not found
+/bin/sh: 4: lyap_spec: not found
+/bin/sh: 4: d2: not found
+/bin/sh: 4: av-d2: not found
+/bin/sh: 4: makenoise: not found
+/bin/sh: 4: nrlazy: not found
+/bin/sh: 4: low121: not found
+/bin/sh: 4: lzo-test: not found
+/bin/sh: 4: lfo-run: not found
+/bin/sh: 4: lfo-test: not found
+/bin/sh: 4: rbf: not found
+/bin/sh: 4: polynom: not found
+/bin/sh: 4: polyback: not found
+/bin/sh: 4: polynomp: not found
+/bin/sh: 4: polypar: not found
+/bin/sh: 4: ar-model: not found
+/bin/sh: 4: mem_spec: not found
+/bin/sh: 4: pca: not found
+/bin/sh: 4: ghkss: not found
+/bin/sh: 4: lfo-ar: not found
+/bin/sh: 4: xzero: not found
+/bin/sh: 4: xcor: not found
+/bin/sh: 4: boxcount: not found
+/bin/sh: 4: fsle: not found
+/bin/sh: 4: resample: not found
+/bin/sh: 4: histogram: not found
+/bin/sh: 4: nstat_z: not found
+/bin/sh: 4: sav_gol: not found
+/bin/sh: 4: delay: not found
+/bin/sh: 4: lzo-gm: not found
+/bin/sh: 4: arima-model: not found
+/bin/sh: 4: lzo-run: not found

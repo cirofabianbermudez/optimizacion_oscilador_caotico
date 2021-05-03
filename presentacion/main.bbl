@@ -1,0 +1,152 @@
+\begin{thebibliography}{10}
+
+\bibitem{Petras2011}
+I.~Petráš, {\em Fractional-Order Nonlinear Systems}.
+\newblock Springer Berlin Heidelberg, 2011.
+
+\bibitem{Olds2009}
+C.~D. Olds, {\em Continued Fractions}.
+\newblock The Mathematical Association of America, 2009.
+
+\bibitem{Petras2019}
+I.~Petráš and J.~Terpak, ``Fractional calculus as a simple tool for modeling
+  and analysis of long memory process in industry,'' {\em Mathematics}, vol.~7,
+  p.~511, jun 2019.
+
+\bibitem{Li2018}
+C.~Li, W.~J.-C. Thio, J.~C. Sprott, H.~H.-C. Iu, and Y.~Xu, ``Constructing
+  infinitely many attractors in a programmable chaotic circuit,'' {\em {IEEE}
+  Access}, vol.~6, pp.~29003--29012, 2018.
+
+\bibitem{Krishna2008}
+B.~T. Krishna and K.~V. V.~S. Reddy, ``Active and passive realization of
+  fractance device of order 1/2,'' {\em Active and Passive Electronic
+  Components}, vol.~2008, pp.~1--5, 2008.
+
+\bibitem{Krishna2011}
+B.~Krishna, ``Studies on fractional order differentiators and integrators: A
+  survey,'' {\em Signal Processing}, vol.~91, pp.~386--426, Mar. 2011.
+
+\bibitem{Lu2006}
+J.~G. Lu and G.~Chen, ``A note on the fractional-order chen system,'' {\em
+  Chaos, Solitons {\&} Fractals}, vol.~27, pp.~685--688, feb 2006.
+
+\bibitem{CharlesAlexander2016}
+M.~S. Charles~Alexander, {\em Fundamentals of Electric Circuits}.
+\newblock McGraw-Hill Education, 2016.
+
+\bibitem{Allen1980}
+L.~P. Huelsman and P.~E. Allen, {\em Introduction to the Theory and Design of
+  Active Filters (Electrical Engineering Series)}.
+\newblock McGraw-Hill Book Company, 1980.
+
+\bibitem{Munoz-Pacheco2019}
+J.~M. Mu{\~{n}}oz-Pacheco, ``Infinitely many hidden attractors in a new
+  fractional-order chaotic system based on a fracmemristor,'' {\em The European
+  Physical Journal Special Topics}, vol.~228, pp.~2185--2196, oct 2019.
+
+\bibitem{Munoz-Pacheco2010}
+J.~M.~M. Pacheco and E.~T. Cuautle, {\em Electronic Design Automation of
+  Multi-Scroll Chaos Generators}.
+\newblock BENTHAM SCIENCE PUB, 2010.
+
+\bibitem{Buscarino2014}
+A.~Buscarino, L.~Fortuna, M.~Frasca, and G.~Sciuto, {\em A Concise Guide to
+  Chaotic Electronic Circuits}.
+\newblock Springer-Verlag GmbH, 2014.
+
+\bibitem{Khubalkar2018}
+S.~W. Khubalkar, A.~S. Junghare, M.~V. Aware, A.~S. Chopade, and S.~Das,
+  ``Demonstrative fractional order {\textendash} {PID} controller based {DC}
+  motor drive on digital platform,'' {\em {ISA} Transactions}, vol.~82,
+  pp.~79--93, nov 2018.
+
+\bibitem{Tepljakov2016}
+A.~Tepljakov, E.~A. Gonzalez, E.~Petlenkov, J.~Belikov, C.~A. Monje, and
+  I.~Petr{\'{a}}{\v{s}}, ``Incorporation of fractional-order dynamics into an
+  existing {PI}/{PID} {DC} motor control loop,'' {\em {ISA} Transactions},
+  vol.~60, pp.~262--273, jan 2016.
+
+\bibitem{Das2007}
+S.~Das, {\em Functional Fractional Calculus for System Identification and
+  Controls}.
+\newblock Springer-Verlag GmbH, 2007.
+
+\bibitem{Ortigueira2011}
+M.~D. Ortigueira, {\em Fractional Calculus for Scientists and Engineers}.
+\newblock Springer-Verlag GmbH, 2011.
+
+\bibitem{Sedra2015}
+K.~S. Adel S.~Sedra, {\em Microelectronic Circuits}.
+\newblock Oxford University Press Inc, 2015.
+
+\bibitem{Caponetto2006}
+R.~Caponetto and D.~Porto, ``Analog implementation of non integer order
+  integrator via field programmable analog array,'' {\em {IFAC} Proceedings
+  Volumes}, vol.~39, pp.~107--111, jan 2006.
+
+\bibitem{Jesus2008}
+I.~S. Jesus and J.~A.~T. Machado, ``Development of fractional order capacitors
+  based on~electrolyte processes,'' {\em Nonlinear Dynamics}, vol.~56,
+  pp.~45--55, jun 2008.
+
+\bibitem{Biswas2006}
+K.~Biswas, S.~Sen, and P.~Dutta, ``Realization of a constant phase element and
+  its performance study in a differentiator circuit,'' {\em {IEEE} Transactions
+  on Circuits and Systems {II}: Express Briefs}, vol.~53, pp.~802--806, sep
+  2006.
+
+\bibitem{Fragoulis2009}
+N.~Fragoulis, G.~Souliotis, D.~Besiris, and K.~Giannakopoulos, ``Field
+  programmable analogue array design based on the wave active filter design
+  method,'' {\em {AEU} - International Journal of Electronics and
+  Communications}, vol.~63, pp.~889--895, oct 2009.
+
+\bibitem{Chen2009}
+Y.~Chen, I.~Petras, and D.~Xue, ``Fractional order control - a tutorial,'' {\em
+  American Control Conference}, 2009.
+
+\bibitem{Gunay2017}
+E.~Gunay and K.~Altun, ``A performance comparison study of programmable
+  platforms: {FPAA} and {FPGA} implementation of {COOK} communication system,''
+  {\em European Conference on Circuit Theory and Design (ECCTD)}, sep 2017.
+
+\bibitem{Charef2006}
+A.~Charef, ``Analogue realisation of fractional-order integrator,
+  differentiator and fractional {PI}$^{\lambda}$ {D}$^{\mu}$ controller,'' {\em
+  {IEE} Proceedings - Control Theory and Applications}, vol.~153, pp.~714--720,
+  nov 2006.
+
+\bibitem{Dorcak2012}
+L.~Dorcak, J.~Terpak, I.~Petras, J.~Valsa, and E.~Gonzalez, ``Comparison of the
+  electronic realization of the fractional-order system and its model,'' {\em
+  Proceedings of the 13th International Carpathian Control Conference (ICCC)},
+  may 2012.
+
+\bibitem{Tepljakov2013}
+A.~Tepljakov, E.~Petlenkov, and J.~Belikov, ``Efficient analog implementations
+  of fractional-order controllers,'' {\em Proceedings of the 14th International
+  Carpathian Control Conference (ICCC)}, may 2013.
+
+\bibitem{Kumari2017}
+B.~Kumari and N.~Gupta, ``Experimental investigation on chaotic oscillator
+  coupled dielectric resonator antenna for medical applications,'' {\em IEEE
+  International Conference on Antenna Innovations \& Modern Technologies for
+  Ground, Aircraft and Satellite Applications (iAIM)}, nov 2017.
+
+\bibitem{Jiang2010}
+F.~Jiang, X.~Wang, J.~Jin, and D.~Yang, {\em The application of chaotic duffing
+  oscillators to ballistocardiograph signal detection}.
+\newblock {IEEE}, jul 2010.
+
+\bibitem{Wang1999}
+G.~Wang, D.~Chen, J.~Lin, and X.~Chen, ``The application of chaotic oscillators
+  to weak signal detection,'' {\em {IEEE} Transactions on Industrial
+  Electronics}, vol.~46, pp.~440--444, apr 1999.
+
+\bibitem{Tepina2002}
+V.~Tepin, {\em Self-parametric chaotic oscillators for secure communication
+  systems}.
+\newblock St. Petersburg State Polytech. Univ, 2002.
+
+\end{thebibliography}
