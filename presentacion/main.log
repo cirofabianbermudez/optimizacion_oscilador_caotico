@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.1)  3 MAY 2021 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.1)  3 MAY 2021 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -946,20 +946,20 @@ LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1027,7 +1027,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box91
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1037,9 +1037,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count268
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
 
 (./main.out) (./main.out)
 \@outlinefile=\write6
@@ -1070,10 +1070,10 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 28.
+LaTeX Info: Redefining \selectfont on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1092,7 +1092,7 @@ Package caption Info: End \AtBeginDocument code.
 <logoinaoe.png, id=69, 243.91125pt x 247.67531pt>
 File: logoinaoe.png Graphic file (type png)
 <use logoinaoe.png>
-Package pdftex.def Info: logoinaoe.png  used on input line 63.
+Package pdftex.def Info: logoinaoe.png  used on input line 64.
 (pdftex.def)             Requested size: 71.13188pt x 72.22836pt.
 
 [1
@@ -1107,123 +1107,122 @@ LaTeX Info: Redefining \% on input line 1.
 
 ] [4
 
+] [5
+
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 123.
+LaTeX Font Info:    Try loading font information for U+msa on input line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 123.
+LaTeX Font Info:    Try loading font information for U+msb on input line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 123.
+line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[5
-
-]
-<imagenes/diag_flug_GL.pdf, id=344, 965.6075pt x 1620.0525pt>
-File: imagenes/diag_flug_GL.pdf Graphic file (type pdf)
-<use imagenes/diag_flug_GL.pdf>
-Package pdftex.def Info: imagenes/diag_flug_GL.pdf  used on input line 133.
-(pdftex.def)             Requested size: 113.81102pt x 190.93712pt.
-
-Overfull \vbox (1.84592pt too high) detected at line 133
- []
-
 [6
 
- <./imagenes/diag_flug_GL.pdf>]
-<imagenes/gl_num.pdf, id=399, 537.00626pt x 399.4925pt>
-File: imagenes/gl_num.pdf Graphic file (type pdf)
-<use imagenes/gl_num.pdf>
-Package pdftex.def Info: imagenes/gl_num.pdf  used on input line 155.
-(pdftex.def)             Requested size: 170.71652pt x 126.999pt.
+]
+<imagenes/diag_flug_GL.pdf, id=396, 965.6075pt x 1620.0525pt>
+File: imagenes/diag_flug_GL.pdf Graphic file (type pdf)
+<use imagenes/diag_flug_GL.pdf>
+Package pdftex.def Info: imagenes/diag_flug_GL.pdf  used on input line 140.
+(pdftex.def)             Requested size: 113.81102pt x 190.93712pt.
 
-Overfull \vbox (6.93779pt too high) detected at line 155
+Overfull \vbox (1.84592pt too high) detected at line 140
  []
 
 [7
 
- <./imagenes/gl_num.pdf>] [8
+ <./imagenes/diag_flug_GL.pdf>]
+<imagenes/gl_num.pdf, id=451, 537.00626pt x 399.4925pt>
+File: imagenes/gl_num.pdf Graphic file (type pdf)
+<use imagenes/gl_num.pdf>
+Package pdftex.def Info: imagenes/gl_num.pdf  used on input line 162.
+(pdftex.def)             Requested size: 170.71652pt x 126.999pt.
+
+Overfull \vbox (6.93779pt too high) detected at line 162
+ []
+
+[8
+
+ <./imagenes/gl_num.pdf>] [9
 
 ]
-<imagenes/alg1.png, id=510, 1311.90125pt x 854.19125pt>
+<imagenes/alg1.png, id=561, 1311.90125pt x 854.19125pt>
 File: imagenes/alg1.png Graphic file (type png)
 <use imagenes/alg1.png>
-Package pdftex.def Info: imagenes/alg1.png  used on input line 210.
+Package pdftex.def Info: imagenes/alg1.png  used on input line 217.
 (pdftex.def)             Requested size: 170.71652pt x 111.15303pt.
- [9
-
- <./imagenes/alg1.png>]
-<imagenes/alg2.png, id=561, 869.2475pt x 805.0075pt>
-File: imagenes/alg2.png Graphic file (type png)
-<use imagenes/alg2.png>
-Package pdftex.def Info: imagenes/alg2.png  used on input line 223.
-(pdftex.def)             Requested size: 170.71652pt x 158.09976pt.
  [10
 
- <./imagenes/alg2.png>]
-<imagenes/ex1.png, id=613, 1182.4175pt x 832.10875pt>
-File: imagenes/ex1.png Graphic file (type png)
-<use imagenes/ex1.png>
-Package pdftex.def Info: imagenes/ex1.png  used on input line 239.
-(pdftex.def)             Requested size: 284.52756pt x 200.23074pt.
+ <./imagenes/alg1.png>]
+<imagenes/alg2.png, id=613, 869.2475pt x 805.0075pt>
+File: imagenes/alg2.png Graphic file (type png)
+<use imagenes/alg2.png>
+Package pdftex.def Info: imagenes/alg2.png  used on input line 230.
+(pdftex.def)             Requested size: 170.71652pt x 158.09976pt.
  [11
 
- <./imagenes/ex1.png>]
-<imagenes/ex2.png, id=664, 1178.4025pt x 843.15pt>
-File: imagenes/ex2.png Graphic file (type png)
-<use imagenes/ex2.png>
-Package pdftex.def Info: imagenes/ex2.png  used on input line 250.
-(pdftex.def)             Requested size: 284.52756pt x 203.58234pt.
+ <./imagenes/alg2.png>]
+<imagenes/ex1.png, id=664, 1182.4175pt x 832.10875pt>
+File: imagenes/ex1.png Graphic file (type png)
+<use imagenes/ex1.png>
+Package pdftex.def Info: imagenes/ex1.png  used on input line 246.
+(pdftex.def)             Requested size: 284.52756pt x 200.23074pt.
  [12
 
- <./imagenes/ex2.png>]
-<imagenes/ex3.png, id=716, 1153.30875pt x 834.11626pt>
-File: imagenes/ex3.png Graphic file (type png)
-<use imagenes/ex3.png>
-Package pdftex.def Info: imagenes/ex3.png  used on input line 260.
-(pdftex.def)             Requested size: 284.52756pt x 205.77939pt.
+ <./imagenes/ex1.png>]
+<imagenes/ex2.png, id=716, 1178.4025pt x 843.15pt>
+File: imagenes/ex2.png Graphic file (type png)
+<use imagenes/ex2.png>
+Package pdftex.def Info: imagenes/ex2.png  used on input line 257.
+(pdftex.def)             Requested size: 284.52756pt x 203.58234pt.
  [13
 
- <./imagenes/ex3.png>]
-<imagenes/ex4a.png, id=768, 1130.2225pt x 339.2675pt>
-File: imagenes/ex4a.png Graphic file (type png)
-<use imagenes/ex4a.png>
-Package pdftex.def Info: imagenes/ex4a.png  used on input line 272.
-(pdftex.def)             Requested size: 284.52756pt x 85.40681pt.
-<imagenes/ex4b.png, id=769, 1077.02374pt x 425.59pt>
-File: imagenes/ex4b.png Graphic file (type png)
-<use imagenes/ex4b.png>
-Package pdftex.def Info: imagenes/ex4b.png  used on input line 272.
-(pdftex.def)             Requested size: 284.52756pt x 112.43013pt.
+ <./imagenes/ex2.png>]
+<imagenes/ex3.png, id=768, 1153.30875pt x 834.11626pt>
+File: imagenes/ex3.png Graphic file (type png)
+<use imagenes/ex3.png>
+Package pdftex.def Info: imagenes/ex3.png  used on input line 267.
+(pdftex.def)             Requested size: 284.52756pt x 205.77939pt.
  [14
 
+ <./imagenes/ex3.png>]
+<imagenes/ex4a.png, id=820, 1130.2225pt x 339.2675pt>
+File: imagenes/ex4a.png Graphic file (type png)
+<use imagenes/ex4a.png>
+Package pdftex.def Info: imagenes/ex4a.png  used on input line 279.
+(pdftex.def)             Requested size: 284.52756pt x 85.40681pt.
+<imagenes/ex4b.png, id=821, 1077.02374pt x 425.59pt>
+File: imagenes/ex4b.png Graphic file (type png)
+<use imagenes/ex4b.png>
+Package pdftex.def Info: imagenes/ex4b.png  used on input line 279.
+(pdftex.def)             Requested size: 284.52756pt x 112.43013pt.
+ [15
+
  <./imagenes/ex4a.png> <./imagenes/ex4b.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 294
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 301
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 294.
+LaTeX Font Info:    No file OMScmss.fd. on input line 301.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 294.
+(Font)              for symbol `textbullet' on input line 301.
 
-[15
+[16
 
-] (./main.bbl) [16
+] (./main.bbl) [17
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [17
-
-
-] [18
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [18
 
 
 ] [19
@@ -1238,6 +1237,9 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 ] [22
 
 
+] [23
+
+
 ]
 \tf@nav=\write7
 \openout7 = `main.nav'.
@@ -1248,14 +1250,14 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 \tf@snm=\write9
 \openout9 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
  (./main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6436689B473131DC8C151767E8A326A4;295.
 
@@ -1264,10 +1266,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22938 strings out of 492615
- 417651 string characters out of 6131391
+ 22942 strings out of 492615
+ 417686 string characters out of 6131391
  540761 words of memory out of 5000000
- 26215 multiletter control sequences out of 15000+600000
+ 26217 multiletter control sequences out of 15000+600000
  13917 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,63p,791b,860s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1284,10 +1286,10 @@ cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
 bx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (22 pages, 1598724 bytes).
+Output written on main.pdf (23 pages, 1600875 bytes).
 PDF statistics:
- 1336 PDF objects out of 1440 (max. 8388607)
- 1231 compressed objects within 13 object streams
- 87 named destinations out of 1000 (max. 500000)
+ 1387 PDF objects out of 1440 (max. 8388607)
+ 1281 compressed objects within 13 object streams
+ 89 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
