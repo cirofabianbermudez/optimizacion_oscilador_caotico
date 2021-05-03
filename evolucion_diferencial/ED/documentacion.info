@@ -55,6 +55,8 @@ Resultado 3
 0.5082457095833637
 f(x1, x2, ... xi) = -2.318272
 
+
+./gl 0.3600222141857286 0.8336214768080837 0.21575244523693599 0.5082457095833637 super.txt
 real	23m38.919s
 user	23m34.711s
 sys	0m2.868s
@@ -67,11 +69,22 @@ xi:
 0.5935300678553914
 f(x1, x2, ... xi) = -2.861136
 
-./gl 0.1289450809800962 0.7423872806486553 0.09270994812182803 0.5935300678553914 super4.txt
+./gl 0.1289450809800962 0.7423872806486553 0.09270994812182803 0.5935300678553914 super.txt
 
 real	66m9.820s
 user	65m59.278s
 sys	0m6.877s
+
+
+./gl 0.7 0.7 0.7 0.7 super.txt
+./lyap_spec super.txt -x30000 -m3,1 -k100 -oKYsuper.txt
+gnuplot -e "filename = 'super.txt'" graph3.gnu
+gnuplot -e "filename = 'super.txt'" graph.gnu
+
+Para latex
+gnuplot -e "filename = 'super.txt'" graph_latex.gnu
+pdflatex latexgraph.tex > latex.log
+
 
 
 
