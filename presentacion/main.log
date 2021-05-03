@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.1)  19 APR 2021 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.2.1)  3 MAY 2021 10:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -915,33 +915,51 @@ File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
 File: listings.cfg 2018/09/02 1.7 listings configuration
 ))
 Package: listings 2018/09/02 1.7 (Carsten Heinz)
-) (./main.aux
+
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count190
+\float@exts=\toks54
+\float@box=\box88
+\@float@everytoks=\toks55
+\@floatcapt=\box89
+)
+\@float@every@algorithm=\toks56
+\c@algorithm=\count191
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count192
+\c@ALC@line=\count193
+\c@ALC@rem=\count194
+\c@ALC@depth=\count195
+\ALC@tlm=\skip84
+\algorithmicindent=\skip85
+))
+(./main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
-
-
-LaTeX Warning: Label `fig:fase_imp_osc' multiply defined.
-
-
-LaTeX Warning: Label `fig:temporal_imp' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -979,17 +997,17 @@ LaTeX Font Info:    ... okay on input line 23.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count190
+\scratchcounter=\count196
 \scratchdimen=\dimen275
-\scratchbox=\box88
-\nofMPsegments=\count191
-\nofMParguments=\count192
-\everyMPshowfont=\toks54
-\MPscratchCnt=\count193
+\scratchbox=\box90
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count199
 \MPscratchDim=\dimen276
-\MPnumerator=\count194
-\makeMPintoPDFobject=\count195
-\everyMPtoPDFconversion=\toks55
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks58
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1008,8 +1026,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box89
-Package hyperref Info: Link coloring OFF on input line 23.
+\AtBeginShipoutBox=\box91
+Package hyperref Info: Link coloring OFF on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1017,11 +1035,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count196
+\c@section@level=\count268
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
 
 (./main.out) (./main.out)
 \@outlinefile=\write6
@@ -1052,10 +1070,10 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 23.
+LaTeX Info: Redefining \selectfont on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1066,14 +1084,15 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count197
+\c@lstlisting=\count269
  (./main.nav)
-<logoinaoe.png, id=121, 243.91125pt x 247.67531pt>
+<logoinaoe.png, id=69, 243.91125pt x 247.67531pt>
 File: logoinaoe.png Graphic file (type png)
 <use logoinaoe.png>
-Package pdftex.def Info: logoinaoe.png  used on input line 58.
+Package pdftex.def Info: logoinaoe.png  used on input line 63.
 (pdftex.def)             Requested size: 71.13188pt x 72.22836pt.
 
 [1
@@ -1084,1255 +1103,140 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [2
 
+] [3
+
+] [4
+
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 91.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 123.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+LaTeX Font Info:    Try loading font information for U+msb on input line 123.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 91.
+line 123.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Underfull \hbox (badness 1622) in paragraph at lines 91--91
-[]\OT1/cmss/m/n/10 Es un ^^Sarea de opor-tu-ni-dad
- []
-
-[3
-
-] [4
-
-] [5
-
-] [6
+[5
 
 ]
-Package epstopdf Info: Source file: <imagenes/A3_derivada_x.eps>
-(epstopdf)                    date: 2020-02-05 16:39:34
-(epstopdf)                    size: 162119 bytes
-(epstopdf)             Output file: <imagenes/A3_derivada_x-eps-converted-to.pd
-f>
-(epstopdf)                    date: 2020-02-05 19:27:18
-(epstopdf)                    size: 61614 bytes
-(epstopdf)             Command: <repstopdf --outfile=imagenes/A3_derivada_x-eps
--converted-to.pdf imagenes/A3_derivada_x.eps>
-(epstopdf)             \includegraphics on input line 164.
-Package epstopdf Info: Output file is already uptodate.
+<imagenes/diag_flug_GL.pdf, id=344, 965.6075pt x 1620.0525pt>
+File: imagenes/diag_flug_GL.pdf Graphic file (type pdf)
+<use imagenes/diag_flug_GL.pdf>
+Package pdftex.def Info: imagenes/diag_flug_GL.pdf  used on input line 133.
+(pdftex.def)             Requested size: 113.81102pt x 190.93712pt.
 
+Overfull \vbox (1.84592pt too high) detected at line 133
+ []
 
-pdfTeX warning: /usr/bin/pdflatex (file ./imagenes/A3_derivada_x-eps-converted-
-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
-wed
-<imagenes/A3_derivada_x-eps-converted-to.pdf, id=738, 421.575pt x 316.18124pt>
-File: imagenes/A3_derivada_x-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/A3_derivada_x-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/A3_derivada_x-eps-converted-to.pdf  used on i
-nput line 164.
-(pdftex.def)             Requested size: 256.0748pt x 192.05975pt.
+[6
 
-Overfull \vbox (2.96855pt too high) detected at line 164
+ <./imagenes/diag_flug_GL.pdf>]
+<imagenes/gl_num.pdf, id=399, 537.00626pt x 399.4925pt>
+File: imagenes/gl_num.pdf Graphic file (type pdf)
+<use imagenes/gl_num.pdf>
+Package pdftex.def Info: imagenes/gl_num.pdf  used on input line 155.
+(pdftex.def)             Requested size: 170.71652pt x 126.999pt.
+
+Overfull \vbox (6.93779pt too high) detected at line 155
  []
 
 [7
 
- <./imagenes/A3_derivada_x-eps-converted-to.pdf>] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
+ <./imagenes/gl_num.pdf>] [8
 
 ]
-[13
-
-] [14
-
-]
-
-LaTeX Warning: File `../imagenes/F1_bode_integrador_alpha05.eps' not found on i
-nput line 312.
-
-Package epstopdf Info: Source file: <../imagenes/F1_bode_integrador_alpha05.eps
->
-(epstopdf)             Output file: <../imagenes/F1_bode_integrador_alpha05-eps
--converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/F1_bode_integr
-ador_alpha05-eps-converted-to.pdf ../imagenes/F1_bode_integrador_alpha05.eps>
-(epstopdf)             \includegraphics on input line 312.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/F1_bode_integrador_alpha05-eps-co
-nverted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.312 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (67.05394pt too high) detected at line 312
- []
-
-[15
-
-] [16
-
-]
-
-LaTeX Warning: File `../imagenes/F6_bode_magnitud_norm_c.eps' not found on inpu
-t line 350.
-
-Package epstopdf Info: Source file: <../imagenes/F6_bode_magnitud_norm_c.eps>
-(epstopdf)             Output file: <../imagenes/F6_bode_magnitud_norm_c-eps-co
-nverted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/F6_bode_magnit
-ud_norm_c-eps-converted-to.pdf ../imagenes/F6_bode_magnitud_norm_c.eps>
-(epstopdf)             \includegraphics on input line 350.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/F6_bode_magnitud_norm_c-eps-conve
-rted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.350 	\end{frame}
-                  	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (15.15718pt too wide) in paragraph at lines 350--350
- [] 
- []
-
-
-Overfull \vbox (116.74808pt too high) detected at line 350
- []
-
-[17
-
-]
-
-LaTeX Warning: File `../imagenes/F7_bode_fase_norm_c.eps' not found on input li
-ne 361.
-
-Package epstopdf Info: Source file: <../imagenes/F7_bode_fase_norm_c.eps>
-(epstopdf)             Output file: <../imagenes/F7_bode_fase_norm_c-eps-conver
-ted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/F7_bode_fase_n
-orm_c-eps-converted-to.pdf ../imagenes/F7_bode_fase_norm_c.eps>
-(epstopdf)             \includegraphics on input line 361.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/F7_bode_fase_norm_c-eps-converted
--to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.361 	\end{frame}
-                  	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (15.15718pt too wide) in paragraph at lines 361--361
- [] 
- []
-
-
-Overfull \vbox (116.74808pt too high) detected at line 361
- []
-
-[18
-
-]
-
-LaTeX Warning: File `../imagenes/F8_bode_error_mag_norm_c.eps' not found on inp
-ut line 372.
-
-Package epstopdf Info: Source file: <../imagenes/F8_bode_error_mag_norm_c.eps>
-(epstopdf)             Output file: <../imagenes/F8_bode_error_mag_norm_c-eps-c
-onverted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/F8_bode_error_
-mag_norm_c-eps-converted-to.pdf ../imagenes/F8_bode_error_mag_norm_c.eps>
-(epstopdf)             \includegraphics on input line 372.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/F8_bode_error_mag_norm_c-eps-conv
-erted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.372 	\end{frame}
-                  	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (15.15718pt too wide) in paragraph at lines 372--372
- [] 
- []
-
-
-Overfull \vbox (116.74808pt too high) detected at line 372
- []
-
-[19
-
-]
-
-LaTeX Warning: File `../imagenes/F9_bode_error_fase_norm_c.eps' not found on in
-put line 383.
-
-Package epstopdf Info: Source file: <../imagenes/F9_bode_error_fase_norm_c.eps>
-
-(epstopdf)             Output file: <../imagenes/F9_bode_error_fase_norm_c-eps-
-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/F9_bode_error_
-fase_norm_c-eps-converted-to.pdf ../imagenes/F9_bode_error_fase_norm_c.eps>
-(epstopdf)             \includegraphics on input line 383.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/F9_bode_error_fase_norm_c-eps-con
-verted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.383 	\end{frame}
-                  	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (15.15718pt too wide) in paragraph at lines 383--383
- [] 
- []
-
-
-Overfull \vbox (116.74808pt too high) detected at line 383
- []
-
-[20
-
-] [21
-
-] [22
-
-]
-
-LaTeX Warning: File `../imagenes/X6_conexiones_AD2.eps' not found on input line
- 450.
-
-Package epstopdf Info: Source file: <../imagenes/X6_conexiones_AD2.eps>
-(epstopdf)             Output file: <../imagenes/X6_conexiones_AD2-eps-converte
-d-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/X6_conexiones_
-AD2-eps-converted-to.pdf ../imagenes/X6_conexiones_AD2.eps>
-(epstopdf)             \includegraphics on input line 450.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/X6_conexiones_AD2-eps-converted-t
-o.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.450 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (9.3491pt too high) detected at line 450
- []
-
-[23
-
-] [24
-
-]
-Package epstopdf Info: Source file: <imagenes/descripcion.eps>
-(epstopdf)                    date: 2020-02-05 15:27:40
-(epstopdf)                    size: 327522 bytes
-(epstopdf)             Output file: <imagenes/descripcion-eps-converted-to.pdf>
-
-(epstopdf)                    date: 2020-02-05 19:27:32
-(epstopdf)                    size: 142226 bytes
-(epstopdf)             Command: <repstopdf --outfile=imagenes/descripcion-eps-c
-onverted-to.pdf imagenes/descripcion.eps>
-(epstopdf)             \includegraphics on input line 478.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: /usr/bin/pdflatex (file ./imagenes/descripcion-eps-converted-to
-.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
-d
-<imagenes/descripcion-eps-converted-to.pdf, id=2555, 1160.335pt x 460.72125pt>
-File: imagenes/descripcion-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/descripcion-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/descripcion-eps-converted-to.pdf  used on inp
-ut line 478.
-(pdftex.def)             Requested size: 341.43306pt x 135.56711pt.
-
-Overfull \hbox (34.14319pt too wide) in paragraph at lines 478--478
- [] 
- []
-
-[25
-
- <./imagenes/descripcion-eps-converted-to.pdf>] [26
-
-]
-
-LaTeX Warning: File `../imagenes/F12_bode_1er_orden_escalado.eps' not found on 
-input line 511.
-
-Package epstopdf Info: Source file: <../imagenes/F12_bode_1er_orden_escalado.ep
-s>
-(epstopdf)             Output file: <../imagenes/F12_bode_1er_orden_escalado-ep
-s-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/F12_bode_1er_o
-rden_escalado-eps-converted-to.pdf ../imagenes/F12_bode_1er_orden_escalado.eps>
-
-(epstopdf)             \includegraphics on input line 511.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/F12_bode_1er_orden_escalado-eps-c
-onverted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.511 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (49.54448pt too high) detected at line 511
- []
-
-[27
-
-] [28
-
-]
-Overfull \hbox (22.2306pt too wide) in paragraph at lines 605--605
- [] 
- []
-
-
-LaTeX Warning: File `../imagenes/T11_Analisis_de_frecuencias_FilterBilinear.eps
-' not found on input line 605.
-
-Package epstopdf Info: Source file: <../imagenes/T11_Analisis_de_frecuencias_Fi
-lterBilinear.eps>
-(epstopdf)             Output file: <../imagenes/T11_Analisis_de_frecuencias_Fi
-lterBilinear-eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/T11_Analisis_d
-e_frecuencias_FilterBilinear-eps-converted-to.pdf ../imagenes/T11_Analisis_de_f
-recuencias_FilterBilinear.eps>
-(epstopdf)             \includegraphics on input line 605.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/T11_Analisis_de_frecuencias_Filte
-rBilinear-eps-converted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.605 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (32.43703pt too wide) in paragraph at lines 605--605
- [] 
- []
-
-
-Overfull \vbox (19.63474pt too high) detected at line 605
- []
-
-[29
-
-] [30
-
-]
-
-LaTeX Warning: File `../imagenes/G4_AD2_BilinearFilter_implementation.png' not 
-found on input line 649.
-
-
-! Package pdftex.def Error: File `../imagenes/G4_AD2_BilinearFilter_implementat
-ion.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.649 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[31
-
-]
-
-LaTeX Warning: File `../imagenes/M1_05.png' not found on input line 669.
-
-
-! Package pdftex.def Error: File `../imagenes/M1_05.png' not found: using draft
- setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.669 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 669--669
- [] 
- []
-
-
-LaTeX Warning: File `../imagenes/V13_comparacion_exp.eps' not found on input li
-ne 669.
-
-Package epstopdf Info: Source file: <../imagenes/V13_comparacion_exp.eps>
-(epstopdf)             Output file: <../imagenes/V13_comparacion_exp-eps-conver
-ted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/V13_comparacio
-n_exp-eps-converted-to.pdf ../imagenes/V13_comparacion_exp.eps>
-(epstopdf)             \includegraphics on input line 669.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/V13_comparacion_exp-eps-converted
--to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.669 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (32.43703pt too wide) in paragraph at lines 669--669
- [] 
- []
-
-
-Overfull \vbox (30.63474pt too high) detected at line 669
- []
-
-[32
-
-]
-
-LaTeX Warning: File `../imagenes/V14_analisis_transitorio.eps' not found on inp
-ut line 689.
-
-Package epstopdf Info: Source file: <../imagenes/V14_analisis_transitorio.eps>
-(epstopdf)             Output file: <../imagenes/V14_analisis_transitorio-eps-c
-onverted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/V14_analisis_t
-ransitorio-eps-converted-to.pdf ../imagenes/V14_analisis_transitorio.eps>
-(epstopdf)             \includegraphics on input line 689.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/V14_analisis_transitorio-eps-conv
-erted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.689 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 689--689
- [] 
- []
-
-
-LaTeX Warning: File `../imagenes/V15_transitorio_real.png' not found on input l
-ine 689.
-
-
-! Package pdftex.def Error: File `../imagenes/V15_transitorio_real.png' not fou
-nd: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.689 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 689--689
- [] 
- []
-
-[33
-
-] [34
-
-] [35
-
-]
-
-LaTeX Warning: File `../imagenes/T12_Analisis_de_frecuencias_suma_de_filtros.ep
-s' not found on input line 801.
-
-Package epstopdf Info: Source file: <../imagenes/T12_Analisis_de_frecuencias_su
-ma_de_filtros.eps>
-(epstopdf)             Output file: <../imagenes/T12_Analisis_de_frecuencias_su
-ma_de_filtros-eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/T12_Analisis_d
-e_frecuencias_suma_de_filtros-eps-converted-to.pdf ../imagenes/T12_Analisis_de_
-frecuencias_suma_de_filtros.eps>
-(epstopdf)             \includegraphics on input line 801.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/T12_Analisis_de_frecuencias_suma_
-de_filtros-eps-converted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.801 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (32.43703pt too wide) in paragraph at lines 801--801
- [] 
- []
-
-
-Overfull \vbox (19.63474pt too high) detected at line 801
- []
-
-[36
-
-]
-
-LaTeX Warning: File `../imagenes/V16_AD2_imple_suma_filtros.png' not found on i
-nput line 812.
-
-
-! Package pdftex.def Error: File `../imagenes/V16_AD2_imple_suma_filtros.png' n
-ot found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.812 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[37
-
-]
-
-LaTeX Warning: File `../imagenes/M2_05.png' not found on input line 832.
-
-
-! Package pdftex.def Error: File `../imagenes/M2_05.png' not found: using draft
- setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.832 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 832--832
- [] 
- []
-
-
-LaTeX Warning: File `../imagenes/V15_bodes_comparativos_suma.eps' not found on 
-input line 832.
-
-Package epstopdf Info: Source file: <../imagenes/V15_bodes_comparativos_suma.ep
-s>
-(epstopdf)             Output file: <../imagenes/V15_bodes_comparativos_suma-ep
-s-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/V15_bodes_comp
-arativos_suma-eps-converted-to.pdf ../imagenes/V15_bodes_comparativos_suma.eps>
-
-(epstopdf)             \includegraphics on input line 832.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/V15_bodes_comparativos_suma-eps-c
-onverted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.832 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (32.43703pt too wide) in paragraph at lines 832--832
- [] 
- []
-
-
-Overfull \vbox (41.63474pt too high) detected at line 832
- []
-
-[38
-
-]
-Overfull \vbox (3.41782pt too high) detected at line 865
- []
-
-[39
-
-]
-
-LaTeX Warning: File `../imagenes/V19_segundo_orden_esc.eps' not found on input 
-line 876.
-
-Package epstopdf Info: Source file: <../imagenes/V19_segundo_orden_esc.eps>
-(epstopdf)             Output file: <../imagenes/V19_segundo_orden_esc-eps-conv
-erted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/V19_segundo_or
-den_esc-eps-converted-to.pdf ../imagenes/V19_segundo_orden_esc.eps>
-(epstopdf)             \includegraphics on input line 876.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/V19_segundo_orden_esc-eps-convert
-ed-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.876 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (49.54448pt too high) detected at line 876
- []
-
-[40
-
-] [41
-
-] [42
-
-]
-Overfull \hbox (69.7663pt too wide) in paragraph at lines 983--983
- [] 
- []
-
-
-LaTeX Warning: File `../imagenes/W4_analisis_frecuencias_biquad.eps' not found 
-on input line 983.
-
-Package epstopdf Info: Source file: <../imagenes/W4_analisis_frecuencias_biquad
-.eps>
-(epstopdf)             Output file: <../imagenes/W4_analisis_frecuencias_biquad
--eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/W4_analisis_fr
-ecuencias_biquad-eps-converted-to.pdf ../imagenes/W4_analisis_frecuencias_biqua
-d.eps>
-(epstopdf)             \includegraphics on input line 983.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/W4_analisis_frecuencias_biquad-ep
-s-converted-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.983 	\end{frame}
-                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (32.43703pt too wide) in paragraph at lines 983--983
- [] 
- []
-
-
-Overfull \vbox (41.63474pt too high) detected at line 983
- []
-
-[43
-
-]
-
-! LaTeX Error: File `../imagenes/W3_AD2_biquad' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.994 	\end{frame}
-                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[44
-
-]
-
-LaTeX Warning: File `../imagenes/W1_impl_seg_ord.png' not found on input line 1
-014.
-
-
-! Package pdftex.def Error: File `../imagenes/W1_impl_seg_ord.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1014 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (3.98428pt too wide) in paragraph at lines 1014--1014
- [] 
- []
-
-
-LaTeX Warning: File `../imagenes/W2_seg_ord_teoria_exp.eps' not found on input 
-line 1014.
-
-Package epstopdf Info: Source file: <../imagenes/W2_seg_ord_teoria_exp.eps>
-(epstopdf)             Output file: <../imagenes/W2_seg_ord_teoria_exp-eps-conv
-erted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/W2_seg_ord_teo
-ria_exp-eps-converted-to.pdf ../imagenes/W2_seg_ord_teoria_exp.eps>
-(epstopdf)             \includegraphics on input line 1014.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/W2_seg_ord_teoria_exp-eps-convert
-ed-to.pdf' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1014 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (32.43703pt too wide) in paragraph at lines 1014--1014
- [] 
- []
-
-
-Overfull \vbox (30.63474pt too high) detected at line 1014
- []
-
-[45
-
-]
-Overfull \hbox (8.48257pt too wide) in paragraph at lines 1090--1090
- []|$\OT1/cmr/m/n/7 [0\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 01\OML/cmm/m/it/7 ; \OT1/
-cmr/m/n/7 0\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 81]$| 
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 1090--1090
-[]\OT1/cmss/m/n/7 Facilidad de im-ple-men-ta-
- []
-
-
-Overfull \hbox (8.48257pt too wide) in paragraph at lines 1090--1090
- []|$\OT1/cmr/m/n/7 [0\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 01\OML/cmm/m/it/7 ; \OT1/
-cmr/m/n/7 0\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 93]$| 
- []
-
-
-Overfull \hbox (4.49644pt too wide) in paragraph at lines 1090--1090
- []|$\OT1/cmr/m/n/7 [0\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 01\OML/cmm/m/it/7 ; \OT1/
-cmr/m/n/7 0\OML/cmm/m/it/7 :\OT1/cmr/m/n/7 6]$| 
- []
-
-[46
-
-] [47
-
-]
-
-LaTeX Warning: File `../imagenes/Z1_saturacion.eps' not found on input line 113
-0.
-
-Package epstopdf Info: Source file: <../imagenes/Z1_saturacion.eps>
-(epstopdf)             Output file: <../imagenes/Z1_saturacion-eps-converted-to
-.pdf>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/Z1_saturacion-
-eps-converted-to.pdf ../imagenes/Z1_saturacion.eps>
-(epstopdf)             \includegraphics on input line 1130.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/Z1_saturacion-eps-converted-to.pd
-f' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1130 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (20.08978pt too high) detected at line 1130
- []
-
-[48
-
-]
-
-LaTeX Warning: File `../imagenes/Z2_bloques.eps' not found on input line 1143.
-
-Package epstopdf Info: Source file: <../imagenes/Z2_bloques.eps>
-(epstopdf)             Output file: <../imagenes/Z2_bloques-eps-converted-to.pd
-f>
-(epstopdf)             Command: <repstopdf --outfile=../imagenes/Z2_bloques-eps
--converted-to.pdf ../imagenes/Z2_bloques.eps>
-(epstopdf)             \includegraphics on input line 1143.
-Package epstopdf Info: Output file is already uptodate.
-
-! Package pdftex.def Error: File `../imagenes/Z2_bloques-eps-converted-to.pdf' 
-not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1143 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (20.11905pt too high) detected at line 1143
- []
-
-[49
-
-] [50
-
-]
-
-LaTeX Warning: File `../imagenes/Y1_implementacion.png' not found on input line
- 1166.
-
-
-! Package pdftex.def Error: File `../imagenes/Y1_implementacion.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1166 	\end{frame}
-                   		
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (38.54448pt too high) detected at line 1166
- []
-
-[51
-
-]
-
-LaTeX Warning: File `../imagenes/Y2_X_vs_Y.png' not found on input line 1194.
-
-
-! Package pdftex.def Error: File `../imagenes/Y2_X_vs_Y.png' not found: using d
-raft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1194 	\end{frame}
-                   	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y4_X_vs_Z.png' not found on input line 1194.
-
-
-! Package pdftex.def Error: File `../imagenes/Y4_X_vs_Z.png' not found: using d
-raft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1194 	\end{frame}
-                   	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y6_Y_vs_Z.png' not found on input line 1194.
-
-
-! Package pdftex.def Error: File `../imagenes/Y6_Y_vs_Z.png' not found: using d
-raft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1194 	\end{frame}
-                   	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[52
-
-]
-
-LaTeX Warning: File `../imagenes/Y3_X_vs_Y_signal.png' not found on input line 
-1221.
-
-
-! Package pdftex.def Error: File `../imagenes/Y3_X_vs_Y_signal.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1221 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y5_X_vs_Z_signal.png' not found on input line 
-1221.
-
-
-! Package pdftex.def Error: File `../imagenes/Y5_X_vs_Z_signal.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1221 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y7_Y_vs_Z_signal.png' not found on input line 
-1221.
-
-
-! Package pdftex.def Error: File `../imagenes/Y7_Y_vs_Z_signal.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1221 	\end{frame}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[53
-
-] [54
-
-]
-
-LaTeX Warning: File `../imagenes/Y1p_implementacion.png' not found on input lin
-e 1253.
-
-
-! Package pdftex.def Error: File `../imagenes/Y1p_implementacion.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1253 	\end{frame}
-                   		
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \vbox (38.54448pt too high) detected at line 1253
- []
-
-[55
-
-]pdfTeX warning (ext4): destination with the same identifier (name{fig:fase_imp
-_osc}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1284 	\end{frame}
-                   	
-
-LaTeX Warning: File `../imagenes/Y2p_X_vs_Y.png' not found on input line 1284.
-
-
-! Package pdftex.def Error: File `../imagenes/Y2p_X_vs_Y.png' not found: using 
-draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1284 	\end{frame}
-                   	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y4p_X_vs_Z.png' not found on input line 1284.
-
-
-! Package pdftex.def Error: File `../imagenes/Y4p_X_vs_Z.png' not found: using 
-draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1284 	\end{frame}
-                   	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y6p_Y_vs_Z.png' not found on input line 1284.
-
-
-! Package pdftex.def Error: File `../imagenes/Y6p_Y_vs_Z.png' not found: using 
-draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1284 	\end{frame}
-                   	
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[56
-
-]pdfTeX warning (ext4): destination with the same identifier (name{fig:temporal
-_imp}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1311 	\end{frame}
-                   			
-
-LaTeX Warning: File `../imagenes/Y3p_X_vs_Y_signal.png' not found on input line
- 1311.
-
-
-! Package pdftex.def Error: File `../imagenes/Y3p_X_vs_Y_signal.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1311 	\end{frame}
-                   			
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y5p_X_vs_Z_signal.png' not found on input line
- 1311.
-
-
-! Package pdftex.def Error: File `../imagenes/Y5p_X_vs_Z_signal.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1311 	\end{frame}
-                   			
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `../imagenes/Y7p_Y_vs_Z_signal.png' not found on input line
- 1311.
-
-
-! Package pdftex.def Error: File `../imagenes/Y7p_Y_vs_Z_signal.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1311 	\end{frame}
-                   			
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[57
-
-]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 133
-9.
-LaTeX Font Info:    No file OMScmss.fd. on input line 1339.
+<imagenes/alg1.png, id=510, 1311.90125pt x 854.19125pt>
+File: imagenes/alg1.png Graphic file (type png)
+<use imagenes/alg1.png>
+Package pdftex.def Info: imagenes/alg1.png  used on input line 210.
+(pdftex.def)             Requested size: 170.71652pt x 111.15303pt.
+ [9
+
+ <./imagenes/alg1.png>]
+<imagenes/alg2.png, id=561, 869.2475pt x 805.0075pt>
+File: imagenes/alg2.png Graphic file (type png)
+<use imagenes/alg2.png>
+Package pdftex.def Info: imagenes/alg2.png  used on input line 223.
+(pdftex.def)             Requested size: 170.71652pt x 158.09976pt.
+ [10
+
+ <./imagenes/alg2.png>]
+<imagenes/ex1.png, id=613, 1182.4175pt x 832.10875pt>
+File: imagenes/ex1.png Graphic file (type png)
+<use imagenes/ex1.png>
+Package pdftex.def Info: imagenes/ex1.png  used on input line 239.
+(pdftex.def)             Requested size: 284.52756pt x 200.23074pt.
+ [11
+
+ <./imagenes/ex1.png>]
+<imagenes/ex2.png, id=664, 1178.4025pt x 843.15pt>
+File: imagenes/ex2.png Graphic file (type png)
+<use imagenes/ex2.png>
+Package pdftex.def Info: imagenes/ex2.png  used on input line 250.
+(pdftex.def)             Requested size: 284.52756pt x 203.58234pt.
+ [12
+
+ <./imagenes/ex2.png>]
+<imagenes/ex3.png, id=716, 1153.30875pt x 834.11626pt>
+File: imagenes/ex3.png Graphic file (type png)
+<use imagenes/ex3.png>
+Package pdftex.def Info: imagenes/ex3.png  used on input line 260.
+(pdftex.def)             Requested size: 284.52756pt x 205.77939pt.
+ [13
+
+ <./imagenes/ex3.png>]
+<imagenes/ex4a.png, id=768, 1130.2225pt x 339.2675pt>
+File: imagenes/ex4a.png Graphic file (type png)
+<use imagenes/ex4a.png>
+Package pdftex.def Info: imagenes/ex4a.png  used on input line 272.
+(pdftex.def)             Requested size: 284.52756pt x 85.40681pt.
+<imagenes/ex4b.png, id=769, 1077.02374pt x 425.59pt>
+File: imagenes/ex4b.png Graphic file (type png)
+<use imagenes/ex4b.png>
+Package pdftex.def Info: imagenes/ex4b.png  used on input line 272.
+(pdftex.def)             Requested size: 284.52756pt x 112.43013pt.
+ [14
+
+ <./imagenes/ex4a.png> <./imagenes/ex4b.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 294
+.
+LaTeX Font Info:    No file OMScmss.fd. on input line 294.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 1339.
+(Font)              for symbol `textbullet' on input line 294.
 
-[58
+[15
 
-] (./main.bbl) [59
+] (./main.bbl) [16
 
- </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [60
-
-
-] [61
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] [17
 
 
-] [62
+] [18
 
 
-] [63
+] [19
 
 
-] [64
+] [20
 
 
-] [65
+] [21
 
 
-] [66
+] [22
 
-]
-<imagenes/encrypt.png, id=6846, 475.7775pt x 357.335pt>
-File: imagenes/encrypt.png Graphic file (type png)
-<use imagenes/encrypt.png>
-Package pdftex.def Info: imagenes/encrypt.png  used on input line 1395.
-(pdftex.def)             Requested size: 99.58464pt x 74.79175pt.
-<imagenes/comunication.png, id=6847, 336.9207pt x 298.24098pt>
-File: imagenes/comunication.png Graphic file (type png)
-<use imagenes/comunication.png>
-Package pdftex.def Info: imagenes/comunication.png  used on input line 1395.
-(pdftex.def)             Requested size: 113.81102pt x 100.74527pt.
-
-Overfull \vbox (1.46184pt too high) detected at line 1395
- []
-
-[67
-
- <./imagenes/encrypt.png> <./imagenes/comunication.png>]
-Package epstopdf Info: Source file: <imagenes/diagrama_de_bloques.eps>
-(epstopdf)                    date: 2020-01-14 11:05:10
-(epstopdf)                    size: 388484 bytes
-(epstopdf)             Output file: <imagenes/diagrama_de_bloques-eps-converted
--to.pdf>
-(epstopdf)                    date: 2020-02-05 19:27:34
-(epstopdf)                    size: 126485 bytes
-(epstopdf)             Command: <repstopdf --outfile=imagenes/diagrama_de_bloqu
-es-eps-converted-to.pdf imagenes/diagrama_de_bloques.eps>
-(epstopdf)             \includegraphics on input line 1404.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: /usr/bin/pdflatex (file ./imagenes/diagrama_de_bloques-eps-conv
-erted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
-> allowed
-<imagenes/diagrama_de_bloques-eps-converted-to.pdf, id=6950, 559.08875pt x 321.
-2pt>
-File: imagenes/diagrama_de_bloques-eps-converted-to.pdf Graphic file (type pdf)
-
-<use imagenes/diagrama_de_bloques-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/diagrama_de_bloques-eps-converted-to.pdf  use
-d on input line 1404.
-(pdftex.def)             Requested size: 284.52756pt x 163.46675pt.
-[68
-
- <./imagenes/diagrama_de_bloques-eps-converted-to.pdf>] [69
 
 ]
 \tf@nav=\write7
@@ -2344,69 +1248,46 @@ d on input line 1404.
 \tf@snm=\write9
 \openout9 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1434.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1434.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
  (./main.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1434.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1434.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4E8D7DB81231E62E11C5ADA408C6F26F;387.
+(rerunfilecheck)             Checksum: 6436689B473131DC8C151767E8A326A4;295.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 23222 strings out of 492615
- 422453 string characters out of 6131391
- 589643 words of memory out of 5000000
- 26269 multiletter control sequences out of 15000+600000
- 27058 words of font info for 86 fonts, out of 8000000 for 9000
+ 22938 strings out of 492615
+ 417651 string characters out of 6131391
+ 540761 words of memory out of 5000000
+ 26215 multiletter control sequences out of 15000+600000
+ 13917 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,63p,791b,860s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-extra/cmmib5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cme
-xtra/cmmib6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmex
-tra/cmmib7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmext
-ra/cmmib8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextr
-a/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (69 pages, 1099583 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss
+bx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (22 pages, 1598724 bytes).
 PDF statistics:
- 7317 PDF objects out of 7423 (max. 8388607)
- 7038 compressed objects within 71 object streams
- 256 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1336 PDF objects out of 1440 (max. 8388607)
+ 1231 compressed objects within 13 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
